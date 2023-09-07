@@ -3,4 +3,5 @@
 <map>
     <title>testsasas</title>
     <topicref href="introduction.dita"/>
+    <topicref href="t_account_creation.dita"/>
 </map>
