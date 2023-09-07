@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_compose_an_email">
+    <title>Compose an Email. </title>
+    <shortdesc>This topic describes the steps to compose an email.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Go to <xref href="http://mail.google.com" format="html" scope="external"
+                        >mail.google.com</xref></cmd>
+            </step>
+            <step>
+                <cmd>On the left top, <uicontrol>Click Compose</uicontrol>.</cmd>
+                <stepresult>A pop-up window of New Message gets opened.</stepresult>
+            </step>
+            <step>
+                <cmd>Add recipients in the To field.</cmd>
+                <info>
+                    <note id="note_gyc_zmk_ryb" type="tip">Any number of recipients can be added. </note>
+                </info>
+            </step>
+            <step>
+                <cmd>Add a subject.</cmd>
+            </step>
+            <step>
+                <cmd>Write message.</cmd>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>Send</uicontrol>.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
