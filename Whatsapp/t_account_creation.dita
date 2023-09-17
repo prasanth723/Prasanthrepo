@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="t_installation">
-    <title>Installation</title>
-    <shortdesc>how to install</shortdesc>
+<task id="t_account_creation">
+    <title>Account Creation</title>
+    <shortdesc></shortdesc>
     <taskbody>
         <context>
             <p></p>
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Yes</cmd>
             </step>
         </steps>
     </taskbody>

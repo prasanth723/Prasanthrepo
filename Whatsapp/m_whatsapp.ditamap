@@ -3,4 +3,6 @@
 <map>
     <title>Whatsapp</title>
     <topicref href="t_installation.dita"/>
+    <topicref href="t_account_creation.dita"/>
+    <topicref href="t_context.dita"/>
 </map>
