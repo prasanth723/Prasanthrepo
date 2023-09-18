@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Youtube music</title>
+    <topicref href="t_download_songs.dita"/>
+    <topicref href="t_video_download.dita"/>
+</map>
