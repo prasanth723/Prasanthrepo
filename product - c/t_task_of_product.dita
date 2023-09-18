@@ -4,9 +4,7 @@
     <title>Task of product</title>
     <shortdesc></shortdesc>
     <taskbody>
-        <context>
-            <p></p>
-        </context>
+        <context>This topic describes about product c.<p/></context>
         <steps>
             <step>
                 <cmd></cmd>
