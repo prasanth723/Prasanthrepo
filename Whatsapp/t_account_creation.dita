@@ -11,6 +11,9 @@
             <step>
                 <cmd>Yes</cmd>
             </step>
+            <step>
+                <cmd>Tap install.</cmd>
+            </step>
         </steps>
     </taskbody>
 </task>
