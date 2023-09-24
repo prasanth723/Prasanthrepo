@@ -2,9 +2,9 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>Whatsapp</title>
-    <topicref href="t_installation.dita"/>
-    <topicref href="t_account_creation.dita"/>
-    <topicref href="t_context.dita"/>
+    <topicref href="t_installation.dita" product="Basic"/>
+    <topicref href="t_account_creation.dita" product="Standard"/>
+    <topicref href="t_context.dita" product="Standard"/>
     <topicref href="t_context3.dita"/>
     <topicref href="t_video_call.dita"/>
 </map>
