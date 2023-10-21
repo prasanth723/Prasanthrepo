@@ -2,4 +2,7 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>microsoft</title>
+    <topicref href="c_introduction.dita"/>
+    <topicref href="t_ms_word.dita"/>
+    <topicref href="ms_excel.dita"/>
 </map>

@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="t_video_call">
-    <title>Video call</title>
-    <shortdesc>This describes about how to make video call.</shortdesc>
+<task id="upi">
+    <title>UPI</title>
+    <shortdesc></shortdesc>
     <taskbody>
         <context>
             <p></p>
         </context>
         <steps>
             <step>
-                <cmd><menucascade>
-                        <uicontrol/>
-                    </menucascade></cmd>
+                <cmd></cmd>
             </step>
         </steps>
     </taskbody>
