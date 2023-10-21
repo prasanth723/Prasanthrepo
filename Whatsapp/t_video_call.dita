@@ -2,7 +2,7 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_video_call">
     <title>Video call</title>
-    <shortdesc>This describes about how to make video call.</shortdesc>
+    <shortdesc conref="reusable.dita#ReusableComponent_w5r_1c3_2zb/shortdesc_avr_1c3_2zb"/>
     <taskbody>
         <context>
             <p></p>
@@ -12,6 +12,12 @@
                 <cmd><menucascade>
                         <uicontrol/>
                     </menucascade></cmd>
+            </step>
+            <step>
+                <cmd><uicontrol/></cmd>
+                <info>
+                    <note id="note_tbm_5c3_2zb"/>
+                </info>
             </step>
         </steps>
     </taskbody>
