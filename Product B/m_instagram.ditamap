@@ -3,4 +3,5 @@
 <map>
     <title>Instagram</title>
     <topicref href="t_creation.dita"/>
+    <topicref href="t_steps.dita"/>
 </map>
