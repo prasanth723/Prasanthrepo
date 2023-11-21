@@ -4,5 +4,6 @@
     <title>Product - C</title>
     <topicref href="c_concept_of_product.dita"/>
     <topicref href="t_task_of_product.dita"/>
+    <topicref href="r_reference_of_product.dita"/>
     <topicref href="t_conlusion_of_product.dita"/>
 </map>
