@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map>
-    <title>Product - C</title>
-    <topicref href="c_concept_of_product.dita"/>
-    <topicref href="t_task_of_product.dita"/>
-    <topicref href="r_reference_of_product.dita"/>
-    <topicref href="t_conlusion_of_product.dita"/>
-</map>
