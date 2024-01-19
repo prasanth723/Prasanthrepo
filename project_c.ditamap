@@ -3,4 +3,5 @@
 <map>
     <title>project c</title>
     <topicref href="c_introduction.dita"/>
+    <topicref href="t_account_creation.dita"/>
 </map>
