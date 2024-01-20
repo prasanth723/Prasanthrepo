@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map>
-    <title>Whats app</title>
-    <topicref href="c_introduction_what_app.dita"/>
-    <topicref href="t_installation_what_app.dita"/>
-    <topicref href="t_account_creation_0.dita"/>
-</map>
