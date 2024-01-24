@@ -3,6 +3,6 @@
 <map>
     <title>ATM</title>
     <topicref href="c_introduction.dita">
-        <topicref href="t_cash_withdrawl.dita"/>
+        <topicref href="t_cash_withdrawl.dita" otherprops="draft"/>
     </topicref>
 </map>
