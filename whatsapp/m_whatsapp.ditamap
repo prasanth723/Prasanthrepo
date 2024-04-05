@@ -3,4 +3,5 @@
 <map>
     <title>WHATSAPP</title>
     <topicref href="c_introduction.dita"/>
+    <topicref href="test.dita"/>
 </map>
