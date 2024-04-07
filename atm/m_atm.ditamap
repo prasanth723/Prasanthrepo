@@ -3,4 +3,5 @@
 <map>
     <title>ATM</title>
     <topicref href="c_introductiom.dita"/>
+    <topicref href="t_withcard.dita"/>
 </map>
