@@ -3,4 +3,6 @@
 <map>
     <title>Facebook</title>
     <topicref href="c_introduction.dita"/>
+    <topicref href="t_account_creation.dita"/>
+    <topicref href="t_installation.dita"/>
 </map>
