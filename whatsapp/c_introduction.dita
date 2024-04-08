@@ -4,6 +4,9 @@
     <title>Introduction</title>
     <shortdesc></shortdesc>
     <conbody>
-        <p></p>
+        <p otherprops="draft">OK button</p>
+        <!--Prasanth: Please make the button name as captial letters--> 
+        <!--Harish: update the comment as suggested--> 
+
     </conbody>
 </concept>

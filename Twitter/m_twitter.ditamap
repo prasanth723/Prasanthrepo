@@ -3,4 +3,5 @@
 <map>
     <title>Twitter</title>
     <topicref href="c_twitter_introduction.dita"/>
+    <topicref href="account_creation.dita"/>
 </map>

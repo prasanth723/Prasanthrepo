@@ -3,5 +3,10 @@
 <map>
     <title>WHATSAPP</title>
     <topicref href="c_introduction.dita"/>
+<<<<<<< HEAD
     <topicref href="test.dita"/>
+=======
+    <topicref href="t_account_creation.dita"/>
+    <topicref href="t_installation.dita"/>
+>>>>>>> 43f321021cc99fe4ce0a7635df9b321d98103ff6
 </map>
