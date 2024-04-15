@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Email</title>
+    <topicref href="../Email/c_introduction.dita"/>
+    <topicref href="../Email/t_account_creation.dita" product="product1"/>
+    <topicref href="../Email/t_send_mail.dita" product="product2"/>
+</map>

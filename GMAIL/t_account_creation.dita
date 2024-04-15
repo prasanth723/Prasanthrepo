@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_account_creation">
+    <title>Account Creation</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>The steps are for Account Creation in Gmail.<p/></context>
+        <steps>
+            <step>
+                <cmd></cmd>
+                <info>
+                    <codeblock id="codeblock_xtn_q3g_y1c">&lt;codeblock id="codeblock_xtn_q3g_y1c"/></codeblock>
+                    <ol id="ol_fp5_j3p_w1c">
+                        <li>Open <ph
+                                conref="common%20text.dita#ReusableComponent_z1g_5bj_y1c/ph_cbg_5bj_y1c"
+                            />.</li>
+                        <li>Search <ph
+                                conref="reuse.dita#ReusableComponent_u1t_w3g_y1c/ph_dbt_w3g_y1c"/>
+                            account creation.</li>
+                        <li>Open create <ph
+                                conref="reuse.dita#ReusableComponent_u1t_w3g_y1c/ph_dbt_w3g_y1c"/>
+                            account.</li>
+                        <li>Click <b>Create account</b>.</li>
+                        <li>Enter<parmname> first name</parmname>,last name and user name.</li>
+                        <li>Create password.</li>
+                        <li>Enter phone number.</li>
+                        <li>Enter <cmdname>verification</cmdname> code.</li>
+                        <li>Enter date of birth.</li>
+                        <li>Choose gender.</li>
+                        <li>Review terms of service and privacy policy.</li>
+                        <li> Click <uicontrol>I agree</uicontrol> .</li>
+                    </ol>
+                </info>
+            </step>
+            <step>
+                <cmd>Copy the files in the source folder: <filepath>C:\Program Files
+                        (x86)\Cisco\Cisco EAP-FAST Module</filepath></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

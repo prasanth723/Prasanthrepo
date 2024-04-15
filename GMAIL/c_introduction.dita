@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_introduction">
+    <title>Introduction</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>GMAIL is an email service provided by google.  It also provides a web mail interface,
+            accessible through a web browser, and is also accessible through the official mobile
+            application. </p>
+        <p>Google's mail servers automatically scan emails for multiple purposes, including to
+            filter spam and, prior to June 2017, to add context-sensitive advertisements
+            next to emails.</p>
+    </conbody>
+</concept>

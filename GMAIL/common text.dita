@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Description:common text-->
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="ReusableComponent_z1g_5bj_y1c">
+    <title/>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd/>
+                <info><ol>
+                        <li><ph id="ph_cbg_5bj_y1c">Crome browser 2.0</ph></li>
+                    </ol></info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

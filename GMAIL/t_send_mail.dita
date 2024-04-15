@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_send_mail">
+    <title>Send Mail</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd></cmd>
+                <info>
+                    <ol id="ol_isn_j2p_w1c">
+                        <li>Open <ph
+                                conref="common%20text.dita#ReusableComponent_z1g_5bj_y1c/ph_cbg_5bj_y1c"
+                            /></li>
+                        <li>Search sign in google account.</li>
+                        <li>Select sign in.</li>
+                        <li>Enter email or phone number.</li>
+                        <li>Click <b>Next</b>.</li>
+                        <li>Enter password.</li>
+                        <li>Click <b>Next</b>.</li>
+                        <li>Select compose or new.</li>
+                        <li>Enter recipient's email address in "To" text box.</li>
+                        <li>Enter email address in "Cc" or "B cc" if required.</li>
+                        <li>Enter subject. </li>
+                        <li>Enter the message.</li>
+                        <li>Add attachments if required.</li>
+                        <li>Click <b>Send</b>.</li>
+                        <li>Confirm email was sent by clicking <b>Sent</b> tab on left.</li>
+                    </ol>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>
