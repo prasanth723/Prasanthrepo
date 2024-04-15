@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_balance_enquiry">
+    <title>Balance Enquiry</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p id="p_cc5_jzx_bbc">The following steps are to be followed for Balance Enquiry in ATM machine. </p>
+        </context><context>
+        <ol id="ol_ec5_jzx_bbc">
+            <li>
+                
+                <info>
+                    <note id="note_lkv_p1t_v1c" type="remember">This following process is for
+                        Balance enquiry in ATM with Card.</note>
+                    <ol id="ol_svq_fbt_v1c">
+                        <li>Insert card.</li>
+                        <li>Select language.</li>
+                        <li>Enter PIN.</li>
+                        <li>Select Balance Inquiry.</li>
+                    </ol>
+                </info>
+            </li>
+        </ol>
+    </context></taskbody>
+</task>
