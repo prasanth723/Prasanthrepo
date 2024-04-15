@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="c_twitter_introduction">
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="c_twitter_introduction">
     <title>Twitter Introduction</title>
     <shortdesc></shortdesc>
-    <conbody>
+    <taskbody><context>
         <p></p>
-    </conbody>
-</concept>
+    </context></taskbody>
+</task>
