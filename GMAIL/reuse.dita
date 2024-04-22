@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Description:reuse-->
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="ReusableComponent_u1t_w3g_y1c">
+    <title/>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd/>
+                <info><ol>
+                        <li><ph id="ph_dbt_w3g_y1c">Email</ph></li>
+                    </ol></info>
+            </step>
+        </steps>
+    </taskbody>
+</task>
