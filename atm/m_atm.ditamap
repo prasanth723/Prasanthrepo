@@ -4,4 +4,5 @@
     <title>ATM</title>
     <topicref href="c_introductiom.dita"/>
     <topicref href="t_withcard.dita"/>
+    <topicref href="t_without_card.dita"/>
 </map>
