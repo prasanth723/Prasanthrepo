@@ -5,5 +5,7 @@
     <topicref href="c_introduction.dita"/>
     <topicref href="t_account_creation.dita"/>
     <topicref href="t_installation.dita"/>
-    <topicref href="delete.dita"/>
+    <topicref href="delete.dita">
+        <topicref href="t_new.dita"/>
+    </topicref>
 </map>
