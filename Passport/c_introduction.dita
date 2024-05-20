@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_introduction">
+    <title>Introduction</title>
+    <shortdesc> This topic describe about passport.</shortdesc>
+    <conbody>
+        <p>A passport is an official government-issued document that serves as a form of
+            identification and travel document for individuals who wish to travel internationally.
+            It verifies the holder's identity and nationality, allowing them to enter and exit
+            foreign countries.</p>
+    </conbody>
+</concept>

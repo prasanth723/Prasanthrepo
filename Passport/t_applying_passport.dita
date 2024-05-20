@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_applying_passport">
+    <title>New User Registration</title>
+    <shortdesc> This topic describe about how to create new user registration.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Open browser.</cmd>
+            </step>
+            <step>
+                <cmd>Search for passport seva.</cmd>
+            </step>
+            <step>
+                <cmd>Click on <uicontrol>Passport Seva</uicontrol>.</cmd>
+                <stepresult> It shows popup window, click on "Close button". </stepresult>
+            </step>
+            <step>
+                <cmd>Click on <uicontrol>New User Registration</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Click on <uicontrol>Passport Office</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Select passport office as per present residential address.</cmd>
+            </step>
+            <step>
+                <cmd>Enter first name, surname and date of birth.</cmd>
+            </step>
+            <step>
+                <cmd>Enter your Email id.</cmd>
+                <info>
+                    <note id="note_sbp_5ts_lbc"> Do you want to Email id as user id Click on
+                            <uicontrol>yes</uicontrol> and click on <uicontrol>Check
+                            Availability</uicontrol>.</note>
+                </info>
+            </step>
+            <step>
+                <cmd>Click on <uicontrol>No</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Enter login id and <uicontrol>Check Availability</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Enter password and Re-enter password to confirm.</cmd>
+            </step>
+            <step>
+                <cmd>Select hint question and enter answer.</cmd>
+            </step>
+            <step>
+                <cmd>Enter captcha and click on <uicontrol>Register</uicontrol>.</cmd>
+                <stepresult> The link sent to your mail id.</stepresult>
+            </step>
+            <step>
+                <cmd>Click on <uicontrol>link</uicontrol>, enter user id and submit.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
