@@ -4,12 +4,13 @@
     <title>Howtoaddastatus</title>
     <shortdesc></shortdesc>
     <taskbody>
-        <context>
-            <p></p>
-        </context>
+        <context/>
         <steps>
             <step>
                 <cmd></cmd>
+                <info>
+                    <note id="note_bmx_prq_nbc" type="important"/>
+                </info>
             </step>
         </steps>
     </taskbody>
