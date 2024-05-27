@@ -4,12 +4,37 @@
     <title>Howtoaddastatus</title>
     <shortdesc></shortdesc>
     <taskbody>
-        <context>
-            <p></p>
-        </context>
+        <context/>
         <steps>
             <step>
                 <cmd></cmd>
+                <info>
+                    <table frame="all" rowsep="1" colsep="1" id="table_pst_4rq_nbc">
+                        <title/>
+                        <tgroup cols="1">
+                            <colspec colname="c1" colnum="1" colwidth="1*"/>
+                            <thead>
+                                <row>
+                                    <entry/>
+                                </row>
+                            </thead>
+                            <tbody>
+                                <row>
+                                    <entry/>
+                                </row>
+                                <row>
+                                    <entry/>
+                                </row>
+                                <row>
+                                    <entry/>
+                                </row>
+                                <row>
+                                    <entry/>
+                                </row>
+                            </tbody>
+                        </tgroup>
+                    </table>
+                </info>
             </step>
         </steps>
     </taskbody>
