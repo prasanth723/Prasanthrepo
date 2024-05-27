@@ -2,7 +2,7 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_applying_passport">
     <title>New User Registration</title>
-    <shortdesc> This topic describe about how to create new user registration.</shortdesc>
+    <shortdesc> This topic describes about how to create new user registration.</shortdesc>
     <taskbody>
         <steps>
             <step>
@@ -13,7 +13,7 @@
             </step>
             <step>
                 <cmd>Click on <uicontrol>Passport Seva</uicontrol>.</cmd>
-                <stepresult> It shows popup window, click on "Close button". </stepresult>
+                <stepresult> It shows popup window, click on <uicontrol>Close</uicontrol>. </stepresult>
             </step>
             <step>
                 <cmd>Click on <uicontrol>New User Registration</uicontrol>.</cmd>
@@ -30,7 +30,7 @@
             <step>
                 <cmd>Enter your Email id.</cmd>
                 <info>
-                    <note id="note_sbp_5ts_lbc"> Do you want to Email id as user id Click on
+                    <note id="note_sbp_5ts_lbc"> If you want Email id as user id Click on
                             <uicontrol>yes</uicontrol> and click on <uicontrol>Check
                             Availability</uicontrol>.</note>
                 </info>
@@ -44,7 +44,7 @@
             <step>
                 <cmd>Enter password and Re-enter password to confirm.</cmd>
             </step>
-            <step>
+            <step> 
                 <cmd>Select hint question and enter answer.</cmd>
             </step>
             <step>
@@ -52,7 +52,7 @@
                 <stepresult> The link sent to your mail id.</stepresult>
             </step>
             <step>
-                <cmd>Click on <uicontrol>link</uicontrol>, enter user id and submit.</cmd>
+                <cmd>Click on link, enter user id and submit.</cmd>
             </step>
         </steps>
     </taskbody>
