@@ -8,5 +8,6 @@
     <topicref href="delete.dita">
         <topicref href="t_new.dita"/>
     </topicref>
+    <topicref href="t_sample_task.dita"/>
     <topicref href="t_add_a_post.dita"/>
 </map>
