@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_account_creation">
+    <title>Account Creation</title>
+    <shortdesc>This topic describes about how to create gmail account.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Open Google Chrome.</cmd>
+            </step>
+            <step>
+                <cmd>Search for create a gmail account.</cmd>
+            </step>
+            <step>
+                <cmd>Click on <uicontrol>Create a Gmail account</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Click on <uicontrol>Create an account</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Click on <uicontrol>Create account - For my personal use</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Enter First name and Last name.</cmd>
+            </step>
+            <step>
+                <cmd>Click on <uicontrol>Next</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Select date of birth.</cmd>
+            </step>
+            <step>
+                <cmd>Select gender.</cmd>
+            </step>
+            <step>
+                <cmd>Click on <uicontrol>Next</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Create a Gmail address.</cmd>
+            </step>
+            <step>
+                <cmd>Enter Password and Confirm.</cmd>
+            </step>
+            <step>
+                <cmd>Click on <uicontrol>Next</uicontrol>.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
