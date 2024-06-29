@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_introduction">
+    <title>Introduction</title>
+    <shortdesc>This topic describes about Gmail account.</shortdesc>
+    <conbody>
+        <p>Gmail is a free email service provided by Google. In many ways, Gmail is like any other
+            email service, you can send and receive emails, block spam, create an address book, and
+            perform other basic email tasks. But it is also has some more unique features that help
+            make it one of the most popular online email services. </p>
+        <p>For more information about Gmail, refer <xref href="https://en.wikipedia.org/wiki/Gmail"
+                format="html" scope="external">wiki</xref>.</p>
+        <p>For more information about account creation, see  <xref href="t_account_creation.dita"
+            />.</p>
+    </conbody>
+</concept>

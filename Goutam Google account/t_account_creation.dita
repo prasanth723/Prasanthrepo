@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_account_creation">
+    <title>Account Creation</title>
+    <shortdesc>This topic describe about account creation.</shortdesc>
+    <taskbody>
+        <steps id="steps_dvq_zrm_vbc">
+            <step>
+                <cmd>Open browser and search for Google account creation.</cmd>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>Create an account</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>Create account</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Select <uicontrol>For my personal use</uicontrol>.</cmd>
+                <info>
+                    <fig id="fig_rrz_rxs_wbc">
+                        <title/>
+                        <image href="WhatsApp%20Image%202024-06-28%20at%2011.46.34%20PM.jpeg"
+                            id="image_a2l_txs_wbc" scale="50"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Enter first name and last name .</cmd>
+            </step>
+            <step>
+                <cmd>Enter date of  birth.</cmd>
+            </step>
+            <step>
+                <cmd>Select gender.</cmd>
+            </step>
+            <step>
+                <cmd>Choose your Gmail address.</cmd>
+            </step>
+            <step>
+                <cmd>Enter your password and confirm.</cmd>
+            </step>
+            <step>
+                <cmd>Tap <uicontrol>Next</uicontrol>.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
