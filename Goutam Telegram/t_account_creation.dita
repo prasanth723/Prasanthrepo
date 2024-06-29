@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_account_creation">
+    <title>Account Creation</title>
+    <shortdesc>This is about Telegram installation.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Open Telegram.</cmd>
+            </step>
+            <step>
+                <cmd>Tap <uicontrol>Start Messaging</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Select country.</cmd>
+            </step>
+            <step>
+                <cmd>Enter mobile number and <uicontrol>Next</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Tap <uicontrol>Yes</uicontrol>if mobile number is correct.</cmd>
+            </step>
+            <step>
+                <cmd>Tap <uicontrol>Continue</uicontrol>. </cmd>
+                <stepresult> The <xref
+                        href="https://en.wikipedia.org/wiki/Telegram_(disambiguation)" format="html"
+                        scope="external">Telegram</xref> home screen appear.</stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

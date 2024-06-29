@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_installation">
+    <title>Installation</title>
+    <shortdesc>This topic about Telegram Installation in mobile.</shortdesc>
+    <taskbody>
+        <steps id="steps_pck_2dg_vbc">
+            <step>
+                <cmd>Open Play Store.</cmd>
+            </step>
+            <step>
+                <cmd>Search for Telegram.</cmd>
+                <info>
+                    <fig id="fig_byx_l2g_vbc">
+                        <title>Img 1</title>
+                        <p><image href="WhatsApp%20Image%202024-06-23%20at%203.55.13%20PM.jpeg"
+                                id="image_sck_p2g_vbc" scale="20"/></p>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Tap <uicontrol>Install</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Tap <uicontrol>Open</uicontrol>.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

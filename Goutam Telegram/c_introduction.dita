@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_introduction">
+    <title>Introduction</title>
+    <shortdesc>This topic is about Telegram installation and account creation.</shortdesc>
+    <conbody>
+        <p>Telegram messenger, commonly known as , is a cloud-based, cross-platform, instant
+            messaging service. It was originally launched for iOS on 14 august 2013 and android on
+            20 October 2013</p>
+    </conbody>
+</concept>

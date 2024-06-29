@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Telegram</title>
+    <topicref href="c_introduction.dita"/>
+    <topicref href="t_installation.dita"/>
+    <topicref href="t_account_creation.dita"/>
+</map>
