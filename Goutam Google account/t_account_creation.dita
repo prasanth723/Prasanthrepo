@@ -9,16 +9,13 @@
                 <cmd>Open browser and search for Google account creation.</cmd>
             </step>
             <step>
-                <cmd>Click <uicontrol>Create an account</uicontrol>.</cmd>
-            </step>
-            <step>
                 <cmd>Click <uicontrol>Create account</uicontrol>.</cmd>
             </step>
             <step>
                 <cmd>Select <uicontrol>For my personal use</uicontrol>.</cmd>
                 <info>
                     <fig id="fig_rrz_rxs_wbc">
-                        <title/>
+                        <title>Fig-1</title>
                         <image href="WhatsApp%20Image%202024-06-28%20at%2011.46.34%20PM.jpeg"
                             id="image_a2l_txs_wbc" scale="50"/>
                     </fig>
@@ -34,13 +31,13 @@
                 <cmd>Select gender.</cmd>
             </step>
             <step>
-                <cmd>Choose your Gmail address.</cmd>
+                <cmd>Choose Gmail address.</cmd>
             </step>
             <step>
-                <cmd>Enter your password and confirm.</cmd>
+                <cmd>Enter password and confirm.</cmd>
             </step>
             <step>
-                <cmd>Tap <uicontrol>Next</uicontrol>.</cmd>
+                <cmd>Click<uicontrol>Next</uicontrol>.</cmd>
             </step>
         </steps>
     </taskbody>
