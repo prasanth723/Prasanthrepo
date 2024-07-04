@@ -3,6 +3,7 @@
 <map>
     <title>EMAIL</title>
     <topicref href="c_introduction.dita"/>
+    <topicref href="t_test3.dita"/>
     <topicref href="t_account_creation.dita" product="product1"/>
     <topicref href="t_send_mail.dita" product="product2"/>
     <topicref href="t_sowjanya_google_meet.dita"/>
