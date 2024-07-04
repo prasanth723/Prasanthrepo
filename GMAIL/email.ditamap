@@ -3,5 +3,6 @@
 <map>
     <title>email</title>
     <topicref href="c_jitendratext.dita"/>
+    <topicref href="t_test007.dita"/>
     <topicref href="t_jjgmail.dita"/>
 </map>
