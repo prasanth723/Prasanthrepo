@@ -6,4 +6,5 @@
     <topicref href="account_creation.dita"/>
     <topicref href="t_how_to_tweet.dita"/>
     <topicref href="t_delete_post.dita"/>
+    <topicref href="t_update_post.dita" otherprops="prop1"/>
 </map>
