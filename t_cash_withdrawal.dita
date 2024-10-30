@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_cash_withdrawal">
+    <title>Cash Withdrawal</title>
+    <shortdesc>This topic describe about how to check Cash Withdrawal.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Insert card.</cmd>
+            </step>
+            <step>
+                <cmd>Select language.</cmd>
+            </step>
+            <step>
+                <cmd>Enter PIN.</cmd>
+            </step>
+            <step>
+                <cmd>Select <uicontrol>Cash withdrawal</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Select account type.</cmd>
+            </step>
+            <step>
+                <cmd>Enter the amount.</cmd>
+            </step>
+            <step>
+                <cmd>Collect the cash.</cmd>
+            </step>
+            <step>
+                <cmd>Select <uicontrol>Yes</uicontrol> to print the receipt or
+                        <uicontrol>No</uicontrol> to end the transaction.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
