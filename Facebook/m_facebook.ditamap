@@ -3,6 +3,7 @@
 <map>
     <title>Facebook</title>
     <topicref href="c_introduction.dita"/>
+    <topicref href="t_installation_ios.dita"/>
     <topicref href="t_test3.dita"/>
     <topicref href="t_test4.dita"/>
     <topicref href="test5.dita"/>
