@@ -9,5 +9,6 @@
     <topicref href="t_howtoaddastatus.dita"/>
     <topicref href="r_test_file.dita"/>
     <topicref href="t_cash_withdrawl.dita"/>
+    <topicref href="t_dummy.dita"/>
     <topicref href="t_cash_withdrawl_with_atm.dita"/>
 </map>
