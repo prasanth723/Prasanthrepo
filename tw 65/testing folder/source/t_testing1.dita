@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_testing1">
+    <title>Testing1</title>
+    <shortdesc>This explains hoew to move a entire folder to Git Hub</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Create a folder in repo files.</cmd>
+            </step>
+            <step>
+                <cmd>Create new document.</cmd>
+            </step>
+            <step>
+                <cmd>Lets what to do next.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
