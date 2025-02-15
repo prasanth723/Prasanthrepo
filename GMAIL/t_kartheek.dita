@@ -11,6 +11,10 @@
             <step>
                 <cmd>we have firstly pushed the latest file with latest changes</cmd>
             </step>
+            <step>
+                <cmd>once the PAT is added the changes will be automatically be pushed to git repo
+                    auto</cmd>
+            </step>
         </steps>
     </taskbody>
 </task>
