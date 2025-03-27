@@ -7,6 +7,8 @@
     <topicref href="r_ganesh.dita"/>
     <topicref href="t_jjgmail.dita"/>
     <topicref href="t_chinmaye.dita">
-        <topicref href="c_creation.dita"/>
+        <topicref href="c_creation.dita">
+            <topicref href="t_account_operation.dita"/>
+        </topicref>
     </topicref>
 </map>
