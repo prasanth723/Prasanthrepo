@@ -9,6 +9,7 @@
     <topicref href="test5.dita"/>
     <topicref href="t_account_creation.dita"/>
     <topicref href="t_installation.dita"/>
+    <topicref href="t_ios.dita"/>
     <topicref href="delete.dita">
         <topicref href="t_new.dita"/>
     </topicref>
