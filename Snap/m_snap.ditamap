@@ -4,6 +4,7 @@
     <title>Snap</title>
     <topicref href="c_introduction.dita"/>
     <topicref href="t_add_a_friend.dita"/>
+    <topicref href="t_remove_a_friend.dita"/>
     <topicref href="t_installation.dita"/>
     <topicref href="t_location.dita"/>
 </map>
