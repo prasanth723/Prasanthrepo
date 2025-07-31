@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_suntest">
+    <title>suntest</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>nothing much</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
