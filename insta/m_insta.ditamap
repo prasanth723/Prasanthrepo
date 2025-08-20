@@ -5,6 +5,7 @@
     <topicref href="c_intro.dita"/>
     <topicref href="t_installation.dita" product="product1"/>
     <topicref href="t_account_creation.dita"/>
+    <topicref href="t_test.dita"/>
     <topicref href="t_deleteaccount.dita"/>
     <topicref href="t_story.dita"/>
     <topicref href="t_message.dita"/>
