@@ -20,4 +20,6 @@
     <topicref href="t_add_a_post.dita"/>
     <topicref href="t_installation_android.dita"/>
     <topicref href="t_dummy_topic.dita"/>
+    <topicref
+        href="sample_file.dita"></topicref>
 </map>
