@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="untitled3">
+    <title>Introduction</title>
+    <shortdesc>Gmail provides a range of powerful features, including large storage capacity,
+        advanced spam filtering, powerful search functionality, and seamless integration with other
+        Google services such as Google Drive, Google Calendar, and Google Meet. It can be accessed
+        through web browsers as well as mobile applications on smartphones and tablets. Creating a
+        Gmail account allows users not only to communicate via email but also to access a wide range
+        of Google products and services. A Gmail account serves as a single sign-in credential for
+        various platforms, making it an essential tool for personal, educational, and professional
+        use.</shortdesc>
+    <taskbody>
+        <context>
+            <p>This task involves creating a new Gmail account by following the required
+                registration steps. It includes entering personal details, choosing a unique email
+                address, setting a secure password, verifying identity, and completing the setup
+                process to successfully create and access the Gmail account.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Open Microsoft Edge.</cmd>
+            </step>
+            <step>
+                <cmd>Search for create Gmail account.</cmd>
+            </step>
+            <step>
+                <cmd>Click on <uicontrol>Create a Gmail Account</uicontrol> powered by Google.
+                </cmd>
+            </step>
+            <step>
+                <cmd>Click on <uicontrol>Create an account</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>Create account</uicontrol> and then select <uicontrol>For my
+                        personal use</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Enter first name and last name.</cmd>
+            </step>
+            <step>
+                <cmd>Click on <uicontrol>Next</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Select birthday and gender.</cmd>
+            </step>
+            <step>
+                <cmd>Click on <uicontrol>Next</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Click on suggested <uicontrol>Gmail address</uicontrol> or click on<uicontrol>
+                        Create your own Gmail address</uicontrol> to enter a custom Gmail address.
+                </cmd>
+            </step>
+            <step>
+                <cmd>Enter desired Gmail address and check for the address availability. </cmd>
+            </step>
+            <step>
+                <cmd>Click on <uicontrol>Next</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Create strong password and confirm with the same password. </cmd>
+                <info>
+                    <note id="note_cmb_c5q_k3c">To check the password, select the <uicontrol>Show
+                            password</uicontrol> option if required.</note>
+                </info>
+            </step>
+            <step>
+                <cmd>Click on <uicontrol>Next</uicontrol> to complete the account creation
+                    process.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
