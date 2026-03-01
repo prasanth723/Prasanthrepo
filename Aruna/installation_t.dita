@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="installation_t">
+    <title>Installation</title>
+    <shortdesc>How to install the WhatsApp.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Open <uicontrol>playstore.</uicontrol></cmd>
+            </step>
+            <step>
+                <cmd>Search for Whatsapp.</cmd>
+            </step>
+            <step>
+                <cmd>Tap to <uicontrol>install</uicontrol> and downlaod the app.</cmd>
+            </step>
+            <step>
+                <cmd>Tap <uicontrol>open</uicontrol> to launch the app.</cmd>
+            </step>
+            <step>
+                <cmd>Select the language and tap the <uicontrol>arrow</uicontrol> to continue.</cmd>
+            </step>
+            <step>
+                <cmd>Tap <uicontrol>Agree and Continue</uicontrol> on the welcome screen.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

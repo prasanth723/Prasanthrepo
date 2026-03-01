@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="introduction_c">
+    <title>Introduction</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>WhatsApp is a globally recognized messaging application developed by Meta Platforms. It
+            enables users to exchange text messages, voice notes, images, videos, documents, and
+            location details with ease. The platform also supports voice and video calls, making it
+            a comprehensive communication tool. With end-to-end encryption, WhatsApp ensures privacy
+            and security for its users. Accessible on smartphones, desktops, and web browsers, it
+            has become one of the most widely used communication apps worldwide, serving over 2
+            billion active users. </p>
+        <p>Formore detailed information about account creation, see <xref href="#./bookmark2"
+                    ><b>AccountCreation</b></xref>. </p>
+        <p>For more detailed information about WhatsApp, refer <xref
+                href="https://en.wikipedia.org/wiki/WhatsApp" format="html" scope="external"
+                >WhatsAppWiki</xref>.</p>
+    </conbody>
+</concept>

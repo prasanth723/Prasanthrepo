@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="account_creation">
+    <title>Account Creation</title>
+    <shortdesc>How to create an account.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Open Whatsapp and tap <uicontrol>Agree and Continue.</uicontrol></cmd>
+            </step>
+            <step>
+                <cmd>Enter mobile number and tap <uicontrol>Done.</uicontrol></cmd>
+            </step>
+            <step>
+                <cmd>Enter 6-digit verification code sent via SMS.</cmd>
+            </step>
+            <step>
+                <cmd>Enter name and tap <uicontrol>Next</uicontrol> to continue.</cmd>
+            </step>
+            <step>
+                <cmd>Allow permissions to contacts.</cmd>
+            </step>
+            <step>
+                <cmd>Tap <uicontrol>Done</uicontrol> to complete the step.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
