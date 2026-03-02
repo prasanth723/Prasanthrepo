@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="introduction_c">
+    <title>Introduction</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>Gmail is a free email service developed by <xref
+                href="https://en.wikipedia.org/wiki/Google" format="html" scope="external"
+                >Google</xref> that allows users to send, receive, and manage emails over the
+            internet. It provides a secure and user-friendly platform with features such as email
+            organization, spam protection, large storage space, and easy integration with other
+            Google services like Google Drive, Google Docs, and Google Meet. Gmail can be accessed
+            through web browsers or mobile applications on Android and iOS devices, making
+            communication simple and accessible from anywhere.</p>
+    </conbody>
+</concept>
