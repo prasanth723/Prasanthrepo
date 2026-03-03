@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="account_creation_t">
+    <title>Account Creation</title>
+    <shortdesc>This topic described about Gmail account creation which is the process of settings up
+        a new email account in Gmail.</shortdesc>
+    <taskbody>
+        <context/>
+        <steps>
+            <step>
+                <cmd>Open Microsoft Edge.</cmd>
+            </step>
+            <step>
+                <cmd>Search for create Gmail account.</cmd>
+            </step>
+            <step>
+                <cmd>Click on <uicontrol>Create Gmail Account-Google Help</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Click on <uicontrol>Create an account</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Click on  <uicontrol>Use another account</uicontrol>.</cmd>
+                <info>
+                    <note id="note_udm_thv_l3c">Choose Use anther account to create new emaill
+                        address.</note>
+                </info>
+            </step>
+            <step>
+                <cmd>Click on <uicontrol>Create new account</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Click on <uicontrol>For my personal use</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Enter first name, last name (optional) and click on
+                    <uicontrol>Next</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Enter date of birth, gender and click on <uicontrol>Next</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Select a suggested email address or enter new email address.</cmd>
+                <info>
+                    <ul id="ul_mbt_sh5_l3c">
+                        <li>Provided use letters,numbers,periods.</li>
+                    </ul>
+                </info>
+            </step>
+            <step>
+                <cmd>Enter password and re-enter to confirm.</cmd>
+                <info>
+                    <ul id="ul_qbg_lbs_k3c">
+                        <li>Provided mix of numbers,letters,symbols.</li>
+                    </ul>
+                </info>
+            </step>
+            <step>
+                <cmd>Click on checkbox to show password.</cmd>
+            </step>
+            <step>
+                <cmd>Click on <uicontrol>Next</uicontrol>.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
