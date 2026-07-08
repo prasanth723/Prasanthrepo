@@ -2,4 +2,6 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>DDLC</title>
+    <topicref href="requirement_analysis.dita"/>
+    <topicref href="audience_analysis.dita"/>
 </map>
