@@ -2,4 +2,6 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>GUI</title>
+    <topicref href="user_guide.dita"/>
+    <topicref href="user_manual.dita"/>
 </map>
