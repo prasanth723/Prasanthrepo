@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>CLI</title>
+    <topicref href="../Lasya%20priya/file1_t.dita"/>
+    <topicref href="../Lasya%20priya/file_2.dita"/>
+    <topicref href="../Lasya%20priya/file_3.dita"/>
+</map>
