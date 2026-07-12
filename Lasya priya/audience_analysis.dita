@@ -9,6 +9,11 @@
         </context>
         <steps>
             <step>
+                <cmd
+                    conref="../../OneDrive/Desktop/source/reuse/step1.dita#ReusableComponent_ids_np5_sjc/cmd_nds_np5_sjc"
+                />
+            </step>
+            <step>
                 <cmd></cmd>
             </step>
         </steps>

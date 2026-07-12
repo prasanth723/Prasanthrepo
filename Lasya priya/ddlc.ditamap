@@ -5,4 +5,7 @@
     <topicref href="requirement_analysis.dita"/>
     <topicref href="audience_analysis.dita"/>
     <topicref href="document_outlining.dita"/>
+    <topicref href="document_prototyping.dita"/>
+    <topicref href="document_development.dita"/>
+    <topicref href="reviewing.dita"/>
 </map>
