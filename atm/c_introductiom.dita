@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="c_introductiom">
-    <title>Introductiom</title>
+    <title>Introduction</title>
     <shortdesc></shortdesc>
     <conbody>
-        <p>test for ATM</p>
+        <p>An Automated Teller Machine (ATM) is an electronic banking device that allows customers
+            to perform financial transactions without direct interaction with a bank teller. Common
+            functions include cash withdrawal, deposits, balance enquiries, and fund transfers.</p>
+        <p>For more information about ATM, refer <xref href="https://en.wikipedia.org/wiki/ATM"
+                format="html" scope="external">wiki</xref></p>
     </conbody>
 </concept>
